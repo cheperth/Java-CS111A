@@ -1,2 +1,2 @@
-# CS---Programming-Fundamentals-Java---111B
-Problems, code, lessons and algorithms from My CS111B Programming Fundamentals: Java class 
+# CS---Intro-to-Java-Programming---111A
+Problems, code, lessons and algorithms from My CS111A Intro To Java Progamming: Java class 
